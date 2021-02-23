@@ -1,0 +1,62 @@
+GCP :
+
+APIs-
+1. Changeable implementation, Complex.
+2. Restful APIs are enabled through GCP console.
+3. Code used JSON as interchange format.
+4. Use OAuth 2.0 for authentication and authorization.
+
+
+Quiz 1:
+
+1. Example of zonal resource: Compute Engine
+2. Paas resource: App Engine
+3. Not a fundamental Attribute of cloud: Scripting as a service
+
+Quiz 2:
+
+1. All Google cloud resources must be associated with a project : True
+2. Command for default config of cloud sdk: gcloud init
+3. Command line tool that is part of cloud sdk: gsutil
+
+
+Compute Engine-
+
+1. IaaS: Virtual machines with industry leading price/performance.
+2. Run any computing workload.
+3. Predefined or custom machine types.
+4. High performance VMs.
+5. Higher proportion of memory to CPU.
+6. Higher proportion of CPU to memory.
+7. Select from pre defined VM config..
+8. Network Storage can be attached to VMs as persistent disks(PDs).
+9. Local SSDs provide higher performance but exist only for specific instance lifetime.
+10. Firewall Rules.
+11. Scale and distribite applications.
+
+
+App Engine-
+
+1. PaaS: Flexible, fully managed platform for building apps.
+2. Focus on App deployment instead of operation.
+3. Use a range of language and tools.
+4. Two different environments:
+	a. Standard environment
+	b. Flexible environment
+
+Google Kebernetes Engine-
+
+1. Hybrid: Cluster manager and orchestration engine.
+2. IaaS virtualizes the hardware.
+3. PaaS gives access to hosted programming services.
+4. Deploying multiple containers on servers.
+
+
+
+Quiz 3:
+
+1. Serverless: Cloud Functions
+2. Two services taking advantage of containerss: App Engine, Google Kubernetes engine
+3. IaaS: Compute Engine
+
+
