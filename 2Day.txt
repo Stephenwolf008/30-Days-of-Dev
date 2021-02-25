@@ -1,0 +1,52 @@
+GCP:
+
+
+
+Cloud Storage-
+
+1. Content storage and delivery
+2. Storage for data analytics and general compute.
+3. Backup and archieve
+
+Cloud SQL-
+
+1. No software installation
+2. Automated backups, replication, patches and updates.
+3. Performance and scalabilty: 10TB storage.
+4. Security- Encrypted Data
+5. Easy to move and migrate.
+6. Compatibility
+
+
+Quiz 1:
+
+1. You are looking for an unstructured storage solution for archiving files that might never be accessed again: Cloud storage coldline class
+2. How do you scale a Cloud Bigtable database if more queries per second are needed? : Add more nodes
+3. Which of the following is a multi-regional, globally available, managed relational database service?: Cloud Spanner
+
+APIs-
+
+1. REST API:
+	 A set of constraints a service must comply with.
+	 Uses HTTP requests.
+	 Great for cloud applications.
+2. Cloud Endpoinrs:
+	Generateans share API keys.
+	Provide Security.
+	Automatic API deployment.
+	Monitoring and logging.
+	Choose your own framework and language.
+
+3. Apigee:
+	 A platform for developing and managing APIs.
+	 An API gateway can retrieve data from multiple services with a single request.
+
+
+Quiz 2:
+
+1. API Management used on legacy systems: Apigee Edge
+2. Protocol used for REST API: HTTP
+3. Not a feature of PUB/SUB: Can process messages as they enter the queue.
+
+
+
