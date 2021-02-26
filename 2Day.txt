@@ -49,4 +49,8 @@ Quiz 2:
 3. Not a feature of PUB/SUB: Can process messages as they enter the queue.
 
 
+Quiz 3:
 
+1. User identities in cloud IAM: Outside of google cloud using google administrative domain
+2. If a Cloud IAM policy gives you Owner permissions at the project level, your access to a resource in the project may be restricted by a more restrictive policy on    that resource : False
+3. Not an encryption optiion for google cloud: SEK
