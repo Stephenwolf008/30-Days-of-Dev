@@ -1,0 +1,39 @@
+GCP-
+
+VPC Network-
+
+1. A VPC network is a virtual version of a physical network and is a global resource.
+2. Allows the delpoyment of IaaS.
+3. No IP address ranges.
+4. It is made up of subnets.
+	Subnets need to be configured with a private IP CIDR address range.
+	IP addresses are used for internal address commnunication.
+
+
+NEtworking Products-
+
+1. Virtual Private Cloud : Manage networking for resources
+2. Cloud Load Balancer : Worldwide autoscaling and load balancing
+3. Cloud CDN : Content Delivery network
+4. Cloud Interconnect: Fast, High availability interconnect.
+5. Cloud DNS : Highly available global DNS network.
+
+Quiz 1: 
+
+1. Key distinguising feature of google cloud: Network topology is not dependent on the IP address layout
+2. Global load balancer : TCP Proxy
+3. VPCs: Global, Subnets: Regional
+
+Cloud Deploymet Manager-
+
+1. Repeatable deployment process
+2. Declarative language : System figures out the steps to take
+3. Template driven : Python and jinja2 template control.
+			Pass variables and output as return.
+
+Quiz 2:
+
+1. What service allows you to inspect detailed latency information for a single request or view aggregate latency for your entire application? : Cloud Trace
+2. Which of the following is true concerning Cloud Deployment Manager? : Cloud Deployment Manager is a declarative tool
+3. Infrastructure as code : Tool that automates the construction of an entire infrastructure
+
